@@ -1,6 +1,6 @@
 # HeuristicSudokuSolver
 
-This projecet implements a sudoku solver using **heuristic optimization algorithms**. 
+This project implements a sudoku solver using **heuristic optimization algorithms**. 
 
 This project investigates two different heuristic optimization algorithms: _Ant Colony Optimization_ and _Particle Swarm Optimization_. 
 
